@@ -1,0 +1,7 @@
+uuid
+pystyle
+colorama
+requests
+Fore
+discord
+init
